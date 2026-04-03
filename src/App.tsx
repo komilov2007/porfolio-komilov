@@ -77,13 +77,22 @@ type OrbitItemProps = {
 
 const projects: ProjectType[] = [
   {
-    title: 'Game Management Dashboard',
+    title: 'RESTAURENT CLONE',
     description:
       'A premium admin dashboard for managing teachers, students, groups, and team workflows with strong hierarchy, clean analytics, and enterprise-style clarity.',
-    stack: ['CSS', 'HTML'],
+    stack: [
+      'CSS',
+      'HTML',
+      'JavaScript',
+      'UI Design',
+      'Figma to Code',
+      'Real-world UX',
+      'next.js',
+    ],
     github: 'https://github.com/komilov2007/Game-Dashboard.git',
-    live: 'https://game-dashboard-sigma.vercel.app',
-    image: 'https://game-dashboard-sigma.vercel.app/image/subway.png',
+    live: 'https://restaurent-clone.vercel.app/',
+    image:
+      'https://restaurent-clone.vercel.app/_next/image?url=%2Fheropizza.png&w=1920&q=75',
     accent: 'from-cyan-500/30 to-blue-500/30',
   },
   {
